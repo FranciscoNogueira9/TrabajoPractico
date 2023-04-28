@@ -1,0 +1,14 @@
+.imgFondo{
+    background-image: url("../img.proyecto/hawaii.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    background-color: rgb(54, 54, 56);
+    background-blend-mode: soft-light;
+    margin-top: 5em;
+}
+footer{
+    background: rgb(1, 68, 99);
+    height: 6vh;
+    margin-top: 2em;   
+}
